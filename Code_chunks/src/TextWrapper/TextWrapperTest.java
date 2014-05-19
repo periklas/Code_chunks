@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collection;
 
 /**
- * @author Periklis Symeonidis
+ * @author Periklas
  * We must test different values, and this can be done with the @parameters. 
  */
 

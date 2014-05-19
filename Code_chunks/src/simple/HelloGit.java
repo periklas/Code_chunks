@@ -1,7 +1,7 @@
 package simple;
 
 /**
- * @author peri
+ * @author periklas
  *
  */
 public class HelloGit {

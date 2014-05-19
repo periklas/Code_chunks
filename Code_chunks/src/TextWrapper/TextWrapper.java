@@ -63,6 +63,8 @@ public class TextWrapper{
 	 * Prints the text to the screen, wrapping each line at the 'width'.
 	 * @param text - the text to wrap and output.
 	 * @param width - the column width for outputting the text.
+	 * 
+	 * @author Periklas
 	 */
 	public void wrapText(String text, int width){
 
