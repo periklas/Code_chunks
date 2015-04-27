@@ -5,7 +5,7 @@ package simple;
  * Various conversions.
  */
 
-public class conversions {
+public class conversion {
 	public static byte[] hexStringToByteArray(String s) {
 		byte[] b = new byte[s.length() / 2];
 		for (int i = 0; i < b.length; i++) {
