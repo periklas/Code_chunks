@@ -7,7 +7,7 @@ package project_euler;
  * What is the largest prime factor of the number 600851475143 ?
  * 
  * 
- * @author periklis
+ * @author periklas
  *
  */
 public class Problem003 {
